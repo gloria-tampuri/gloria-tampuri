@@ -17,7 +17,7 @@
 
 ## Hobbies
 - Music
-- Food
+- Food Lover
 - Cooking
 - Indepth Conversations
 
