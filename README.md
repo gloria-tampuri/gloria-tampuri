@@ -8,6 +8,7 @@
 - Css
 - Javascript
 - React
+- Nexjs
 
 ## Soft Skills
 - Team player
