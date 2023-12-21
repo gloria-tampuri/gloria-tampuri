@@ -6,7 +6,8 @@
 ## Technical Skills
 - Html
 - Css
-- Javascript
+- JavaScript
+- TypeScript
 - React
 - Nexjs
 
